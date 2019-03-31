@@ -1,0 +1,8 @@
+name: recipes
+recipe: laravel
+config:
+  php: 7.3
+  via: nginx
+  webroot: public
+  database: mysql
+
